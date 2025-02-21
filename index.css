@@ -1,0 +1,26 @@
+:root {
+    background-color: black;
+    color: white;
+}
+
+.side-bt {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: 1.5vw;
+    margin-bottom: 4vh;
+}
+
+.menu-icon {
+    width: 2vw;
+    margin-left: 10%;
+}
+
+.modal {
+    max-width: 60vw;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: rgb(46, 46, 46);
+}
